@@ -1,4 +1,4 @@
-<b>Ringtone installing for smartphones </b>
+<b>Ringtone installing for smartphones instructions </b>
 <br>1) Setting the ring tone for every single incoming call
 <br>
 Go to your setting page on your smartphone then go to sound/audio setting should look similar to the below screenshot process.
