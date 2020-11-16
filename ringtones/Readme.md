@@ -1,5 +1,8 @@
 <b>Ringtone installing for smartphones </b>
 <br>
+1) Setting the ring tone for every single incoming call if you want to set a ringtone on an individual person go to 2)
+
+<br>
 Go to your setting page on your smartphone then go to sound/audio setting should look similar to the below screenshot process.
 
 <br>
