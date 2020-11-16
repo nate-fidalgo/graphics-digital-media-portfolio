@@ -17,7 +17,7 @@ Go to your setting page on your smartphone then go to sound/audio setting should
  <br>
 <br>
 2) Setting the ringtone for individual contacts/numbers
-<br>
+<br><br>
 <p float="left">
  <img src="../images/Screenshot_20201116-174328.png" width="200" height="400"> 
 
