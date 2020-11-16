@@ -10,14 +10,8 @@ Go to your setting page on your smartphone then go to sound/audio setting should
  <img src="../images/Screenshot_20201116-173442.png" width="200" height="400"> 
  <img src="../images/Screenshot_20201116-173516.png" width="200" height="400"> 
  </p>
-    <div id="banner" >
-    <div style="max-width: 20%;max-height: 20%;display: inline-block;">
-        <img src="../images/Screenshot_20201116-174256.png">
-    </div>
-    <div style="max-width: 20%;max-height: 20%;display: inline-block;">
-        <img src="../images/Screenshot_20201116-174256.png">
-    </div>
-    <div style="max-width: 20%;max-height: 20%;display: inline-block;">
-        <img src="../images/Screenshot_20201116-174256.png">
-    </div>
-    </div>
+ Once search and found your ringtone your done!!!
+ <br>
+ Remember before any of these steps to actually copy or download your new ringtone to your phone in the first place :)
+ <br>
+ 
