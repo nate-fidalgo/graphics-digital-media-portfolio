@@ -2,9 +2,7 @@
 <br>
 1) Setting the ring tone for every single incoming call
 <br>
-<br>
 Go to your setting page on your smartphone then go to sound/audio setting should look similar to the below screenshot process.
-
 <br>
 <p float="left">
  <img src="../images/Screenshot_20201116-174256.png" width="200" height="400"> 
