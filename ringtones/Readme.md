@@ -12,11 +12,9 @@ Go to your setting page on your smartphone then go to sound/audio setting should
     <div class="inline-block">
         <img src="../images/Screenshot_20201116-174256.png">
     </div>
-
     <div class="inline-block">
         <img src="../images/Screenshot_20201116-174256.png">
     </div>
-
     <div class="inline-block">
         <img src="../images/Screenshot_20201116-174256.png">
     </div>
