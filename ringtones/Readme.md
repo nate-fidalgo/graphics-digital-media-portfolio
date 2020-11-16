@@ -4,6 +4,7 @@
 <br>
 Go to your setting page on your smartphone then go to sound/audio setting should look similar to the below screenshot process.
 <br>
+<br>
 <p float="left">
  <img src="../images/Screenshot_20201116-174256.png" width="200" height="400"> 
  <img src="../images/Screenshot_20201116-173323.png" width="200" height="400"> 
