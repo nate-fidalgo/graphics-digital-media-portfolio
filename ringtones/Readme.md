@@ -23,3 +23,10 @@ Go to your setting page on your smartphone then go to sound/audio setting should
  <img src="../images/contacts3.png" width="200" height="400"> 
  <img src="../images/contact2.png" width="200" height="400"> 
  </p>
+<br><br>
+Then just add a ringtone or select a ringtone as usual similar to method 1) from here on out!
+<br>
+Congradulations you now know how to install ringtones on your phone.
+With a little more investigating you see that you can also set alarm ringtones , notification ringtones , and different audio clips for different stuff not just ringtones on your phone.
+<br>
+ PLEASE CHECKOUT MY RINGTONE FOLDER NOW AND AGAIN FOR COOL NEW RINGTONES YOU CAN INSTALL!!!
