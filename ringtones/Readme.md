@@ -26,6 +26,6 @@ Go to your setting page on your smartphone then go to sound/audio setting should
 Then just add a ringtone or select a ringtone as usual similar to method 1) from here on out!
 <br><br>
 Congradulations you now know how to install ringtones on your phone.<br>
-With a little more investigating you see that you can also set alarm ringtones , notification ringtones , and different audio clips for different stuff not just ringtones on your phone.
+With a little more investigating you see that you can also set alarm ringtones , notification ringtones , and different audio clips for different sound affect on your phone as well.
 <br>
  PLEASE CHECKOUT MY RINGTONE FOLDER NOW AND AGAIN FOR COOL NEW RINGTONES YOU CAN INSTALL!!!
