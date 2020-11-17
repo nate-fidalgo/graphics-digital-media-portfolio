@@ -20,5 +20,6 @@ Go to your setting page on your smartphone then go to sound/audio setting should
 <br><br>
 <p float="left">
  <img src="../images/Screenshot_20201116-174328.png" width="200" height="400"> 
-
+ <img src="../images/contacts3.png" width="200" height="400"> 
+ <img src="../images/contact2.png" width="200" height="400"> 
  </p>
