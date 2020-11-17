@@ -23,7 +23,6 @@ Go to your setting page on your smartphone then go to sound/audio setting should
  <img src="../images/contacts3.png" width="200" height="400"> 
  <img src="../images/contact2.png" width="200" height="400"> 
  </p>
-<br>
 Then just add a ringtone or select a ringtone as usual similar to method 1) from here on out!
 <br>
 Congradulations you now know how to install ringtones on your phone.<br>
